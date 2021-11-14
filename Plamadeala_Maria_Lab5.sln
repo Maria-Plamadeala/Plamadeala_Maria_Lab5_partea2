@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plamadeala_Maria_Lab5", "Plamadeala_Maria_Lab5.csproj", "{0CAA5B5B-EA4D-461F-BC36-A90A892A51A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLotModel", "..\AutoLotModel\AutoLotModel.csproj", "{B4CF6D49-3CC3-41CB-B1FB-C9EBC4959A03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CAA5B5B-EA4D-461F-BC36-A90A892A51A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CAA5B5B-EA4D-461F-BC36-A90A892A51A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CAA5B5B-EA4D-461F-BC36-A90A892A51A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CAA5B5B-EA4D-461F-BC36-A90A892A51A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4CF6D49-3CC3-41CB-B1FB-C9EBC4959A03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4CF6D49-3CC3-41CB-B1FB-C9EBC4959A03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4CF6D49-3CC3-41CB-B1FB-C9EBC4959A03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4CF6D49-3CC3-41CB-B1FB-C9EBC4959A03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CD9E913-F1A9-4323-8C94-ECC4803D1EAF}
+	EndGlobalSection
+EndGlobal
